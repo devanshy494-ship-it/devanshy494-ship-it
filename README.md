@@ -1,5 +1,5 @@
 <div align="center">
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 <!-- GLITCH HEADING via capsule render -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:9d00ff,50:ff2d96,100:6600cc&height=220&section=header&text=DEVANSH%20YADAV&fontSize=44&fontColor=ffffff&animation=glitch&fontAlignY=40&desc=full-stack%20dev%20%E2%80%A2%20india%20%E2%80%A2%20ship%20it&descAlignY=60&descAlign=50&descSize=15" />
